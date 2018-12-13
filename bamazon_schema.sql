@@ -24,3 +24,7 @@ values
 ('Trashcan', 'Homegoods', 19.99, 12);
 
 select * from products;
+
+SELECT stock_quantity FROM products WHERE item_id = 3;
+
+UPDATE products SET stock_quantity=23 WHERE item_id = 3;

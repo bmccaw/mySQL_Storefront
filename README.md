@@ -20,3 +20,18 @@ Customers can view products for sale and are prompted to choose one to purchase.
 
 - Enter "node bamazonCustomer" into the command line
 - Follow the prompts to buy products
+
+![demonstration](bamazoncustomer.gif)
+
+Manager App
+===================
+Managers have four options, to view products for sale, view only products with low inventory, add stock to a product, and add new products for sale.
+
+- Enter "node bamazonManager" into the command line
+- Follow the prompts to view products, view low inventory products, add stock, or add products
+
+![demonstration](bamazonmanager.gif)
+
+To do..
+==================
+- would still like to get the supervisor view working
